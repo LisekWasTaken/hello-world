@@ -1,9 +1,1 @@
-git --version
-git -config --user.name
-mkdir nowyProjekt
-cd nowyProjekt
-git init
-ls
-git status
-git add nowyPlik
-git add --all/-A
+IDK random text
